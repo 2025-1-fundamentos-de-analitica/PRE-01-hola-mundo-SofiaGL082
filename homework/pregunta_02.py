@@ -6,6 +6,8 @@ Escriba el codigo que ejecute la accion solicitada en cada pregunta.
 
 
 def pregunta_02():
+
+    mensaje = "Hello cruel world!"
     """
     Retorne el string "Hello cruel world!".
 
@@ -14,7 +16,7 @@ def pregunta_02():
 
     """
 
-    return
+    return mensaje
 
 
 if __name__ == "__main__":
